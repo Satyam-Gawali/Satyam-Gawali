@@ -10,28 +10,32 @@
 
   <br/><br/>
 
-  <!-- Status & Invisible Background Real-time Tracker -->
+  <!-- Status, Focus & Location Pills -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-🟢_Available_for_Projects-0E1626?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-🟢_Available_for_Projects-0D1117?style=flat-square&logo=flutter&logoColor=38BDF8" alt="Status" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Focus-Mobile_&_Open_Source-0D1117?style=flat-square&logo=dart&logoColor=38BDF8" alt="Focus" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Location-India-0D1117?style=flat-square" alt="Location" />
     <img src="https://komarev.com/ghpvc/?username=Satyam-Gawali&label=Profile%20Views&color=0284C7&style=flat-square&labelColor=0E1626" width="0" height="0" alt="" />
   </p>
 
-  <!-- Social Badges -->
+  <!-- Clean Social Badges (Clickable with Official Icons) -->
   <p align="center">
     <a href="https://satyamgawali.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-satyamgawali.vercel.app-0D1117?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/satyam-gawali">
-      <img src="https://img.shields.io/badge/LinkedIn-satyam--gawali-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://github.com/Satyam-Gawali">
-      <img src="https://img.shields.io/badge/GitHub-Satyam--Gawali-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;
     <a href="mailto:satyamgawali.sg@gmail.com">
-      <img src="https://img.shields.io/badge/Email-satyamgawali.sg%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -117,36 +121,25 @@
 
 <div align="center">
 
-  <!-- Contribution Graph -->
+  <!-- Streak Stats (High Reliability via Demolab) -->
   <a href="https://github.com/Satyam-Gawali">
     <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam-Gawali&theme=github-compact&custom_title=Contribution%20Activity&bg_color=0D1117&color=38BDF8&line=38BDF8&point=60A5FA&area=true&area_color=0284C7" 
-      alt="Contribution Graph" 
+      src="https://streak-stats.demolab.com?user=Satyam-Gawali&theme=tokyonight&hide_border=false&border=1E293B&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=94A3B8&sideLabels=94A3B8&dates=64748B" 
+      alt="GitHub Streak" 
       width="100%" 
     />
   </a>
 
   <br/><br/>
 
-  <!-- Stats & Top Languages -->
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=Satyam-Gawali&show_icons=true&theme=transparent&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&border_color=1E293B&hide_border=false&rank_icon=github" 
-          alt="Satyam Gawali's GitHub Stats" 
-          width="100%" 
-        />
-      </td>
-      <td width="50%" valign="top">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-Gawali&layout=compact&theme=transparent&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&border_color=1E293B&hide_border=false" 
-          alt="Top Languages" 
-          width="100%" 
-        />
-      </td>
-    </tr>
-  </table>
+  <!-- GitHub Achievements & Trophies (Rock-solid, No Rate Limits) -->
+  <a href="https://github.com/Satyam-Gawali">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=Satyam-Gawali&theme=onedark&no-frame=false&margin-w=4" 
+      alt="GitHub Trophies & Achievements" 
+      width="100%" 
+    />
+  </a>
 
 </div>
 
