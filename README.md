@@ -86,8 +86,8 @@
 | :--- | :--- | :--- | :--- |
 | **`debug_bubble`** | Draggable in-app diagnostic dashboard & structured log inspector for physical devices with zero runtime dependencies. | `Flutter` `Dart` `Diagnostics` | [GitHub](https://github.com/Satyam-Gawali/debug_bubble) • [pub.dev](https://pub.dev/packages/debug_bubble) |
 | **`chroma_kit`** | Color manipulation toolkit with safe hex parsing, automated contrast calculations, and smart pastel blending. | `Flutter` `Dart` `Color Science` | [GitHub](https://github.com/Satyam-Gawali/chroma_kit) • [pub.dev](https://pub.dev/packages/chroma_kit) |
-| **`Promptixa`** | Community platform to discover, customize, curate, and share dynamic AI prompt templates with real-time sync. | `Flutter` `Firebase` `Firestore` | [GitHub](https://github.com/Satyam-Gawali/promptixa-web) • [Live Web](https://satyam-gawali.github.io/promptixa-web/) |
-| **`CLVCA`** | Privacy-first Cross-Language Voice Chat App featuring on-device speech-to-text, translation, and TTS pipelines. | `Flutter` `Dart` `Audio Processing` | [GitHub](https://github.com/Satyam-Gawali/clvca-app) |
+| **`Promptixa`** | Community platform to discover, customize, curate, and share dynamic AI prompt templates with real-time sync. | `Flutter` `Firebase` `Firestore` | [Landing Page](https://satyam-gawali.github.io/promptixa-web/) |
+| **`CLVCA`** | Privacy-first Cross-Language Voice Chat App featuring on-device speech-to-text, translation, and TTS pipelines. | `Flutter` `Dart` `Audio Processing` | [Landing Page](https://satyam-gawali.github.io/clvca-app/) |
 | **`expense-tracker-flutter`** | Offline-capable personal finance tracker for managing expenses, income, and budgets with local persistence. | `Flutter` `Dart` `SQLite` | [GitHub](https://github.com/Satyam-Gawali/expense-tracker-flutter) |
 
 ---
@@ -103,43 +103,23 @@
         <a href="https://pub.dev/packages/debug_bubble">
           <img src="https://img.shields.io/pub/v/debug_bubble?color=38BDF8&label=pub.dev&logo=dart&logoColor=white&style=flat-square" alt="debug_bubble badge" />
         </a>
+        &nbsp;
+        <a href="https://github.com/Satyam-Gawali/debug_bubble">
+          <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
       </td>
       <td align="center" width="50%">
         <b>chroma_kit</b><br/><br/>
         <a href="https://pub.dev/packages/chroma_kit">
           <img src="https://img.shields.io/pub/v/chroma_kit?color=38BDF8&label=pub.dev&logo=dart&logoColor=white&style=flat-square" alt="chroma_kit badge" />
         </a>
+        &nbsp;
+        <a href="https://github.com/Satyam-Gawali/chroma_kit">
+          <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
       </td>
     </tr>
   </table>
-
-</div>
-
----
-
-### 📊 GitHub Activity & Statistics
-
-<div align="center">
-
-  <!-- Streak Stats (High Reliability via Demolab) -->
-  <a href="https://github.com/Satyam-Gawali">
-    <img 
-      src="https://streak-stats.demolab.com?user=Satyam-Gawali&theme=tokyonight&hide_border=false&border=1E293B&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=94A3B8&sideLabels=94A3B8&dates=64748B" 
-      alt="GitHub Streak" 
-      width="100%" 
-    />
-  </a>
-
-  <br/><br/>
-
-  <!-- GitHub Achievements & Trophies (Rock-solid, No Rate Limits) -->
-  <a href="https://github.com/Satyam-Gawali">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=Satyam-Gawali&theme=onedark&no-frame=false&margin-w=4" 
-      alt="GitHub Trophies & Achievements" 
-      width="100%" 
-    />
-  </a>
 
 </div>
 
