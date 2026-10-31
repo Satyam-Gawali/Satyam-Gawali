@@ -125,6 +125,20 @@
 
 ---
 
+### ☕ Support My Work
+
+<div align="center">
+
+  <p>If you find my open-source tools or packages helpful, consider supporting my work:</p>
+
+  <a href="https://buymeacoffee.com/satyam.sg" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="42" />
+  </a>
+
+</div>
+
+---
+
 <div align="center">
   <sub>⭐️ From <a href="https://github.com/Satyam-Gawali">Satyam Gawali</a> &bull; Engineered with passion for open-source</sub>
 </div>
