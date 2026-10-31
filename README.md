@@ -26,7 +26,7 @@
       <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/satyam-gawali">
+    <a href="https://www.linkedin.com/in/satyam-gawali-b4623b268/">
       <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
